@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ß╗Éi dß╗ôi ├┤i</string>
+    <string name="title_activity_main">ß╗Éi dß╗ôi ├┤i</string>
+    <string name="package_name">com.sveltekitapp</string>
+    <string name="custom_url_scheme">com.sveltekitapp</string>
+</resources>

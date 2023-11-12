@@ -55,5 +55,11 @@
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@capacitor/android": "^5.5.1",
+		"@capacitor/cli": "^5.5.1",
+		"@capacitor/core": "^5.5.1",
+		"@capacitor/ios": "^5.5.1"
+	}
 }
