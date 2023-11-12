@@ -14,8 +14,8 @@ const config = {
 		adapter: adapter(),
 		//config path for github page
 		paths: {
-            base: process.env.NODE_ENV === 'production' ? '/sveltekit-adapter-static' : '',
-        }
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+		}
 	}
 };
 
